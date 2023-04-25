@@ -1,0 +1,18 @@
+{
+  "name": "moments",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "blah"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "moments": "^0.0.2"
+  }
+}
